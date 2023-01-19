@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 title: 🤖 SMAI - 05 - 19 Jan
-linktitle: 🤖 SMAI
+linktitle: 🤖 SMAI Lecture 05
 summary: Lecture Notes, Concepts and assignments for SMAI Spring-23 Course
 weight: 1
 # icon: book
